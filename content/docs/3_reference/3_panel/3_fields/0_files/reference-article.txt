@@ -8,7 +8,7 @@ A files select field that allows to select one or multiple related files
 
 ----
 
-Guide: content/files
+Guide: docs/guide/files/files
 
 ----
 
